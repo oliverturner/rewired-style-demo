@@ -1,0 +1,20 @@
+{
+  "name": "styled",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "babel-plugin-styled-components-named": "0.1.1",
+    "rewire-react-scripts": "0.0.6"
+  },
+  "dependencies": {
+    "react": "15.3.2",
+    "react-dom": "15.3.2",
+    "styled-components": "1.0.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
